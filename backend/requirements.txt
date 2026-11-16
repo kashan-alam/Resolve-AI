@@ -1,0 +1,12 @@
+fastapi
+httpx
+pytest
+uvicorn[standard]
+SQLAlchemy
+psycopg[binary]
+alembic
+python-dotenv
+google-genai
+pgvector
+pwdlib[argon2]
+PyJWT
